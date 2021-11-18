@@ -1,0 +1,28 @@
+[submodule "pluginHost"]
+	path = pluginHost
+	url = https://github.com/WeerawitPM/pluginHost.git
+	ignore = dirty
+[submodule "pluginInterface"]
+	path = pluginInterface
+	url = https://github.com/WeerawitPM/pluginInterface.git
+	ignore = dirty
+[submodule "plugin1"]
+	path = plugin1
+	url = https://github.com/WeerawitPM/plugin1.git
+	ignore = dirty
+[submodule "plugin2"]
+	path = plugin2
+	url = https://github.com/WeerawitPM/plugin2.git
+	ignore = dirty
+[submodule "plugin3"]
+	path = plugin3
+	url = https://github.com/WeerawitPM/plugin3.git
+	ignore = dirty
+[submodule "plugin4"]
+	path = plugin4
+	url = https://github.com/WeerawitPM/plugin4.git
+	ignore = dirty
+[submodule "pluginWeerawit"]
+	path = pluginWeerawit
+	url = https://github.com/WeerawitPM/pluginWeerawit.git
+	ignore = dirty
