@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Host", "..\pluginHost\Host\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin1", "..\plugin1\Plugin1\Plugin1.csproj", "{6DEE618D-9BD9-46E0-B202-E10AAC51AA05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugin2", "..\plugin2\Plugin2\Plugin2.csproj", "{ED8E2173-836A-460B-9D00-C90237228721}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{6DEE618D-9BD9-46E0-B202-E10AAC51AA05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DEE618D-9BD9-46E0-B202-E10AAC51AA05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DEE618D-9BD9-46E0-B202-E10AAC51AA05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED8E2173-836A-460B-9D00-C90237228721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED8E2173-836A-460B-9D00-C90237228721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED8E2173-836A-460B-9D00-C90237228721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED8E2173-836A-460B-9D00-C90237228721}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
