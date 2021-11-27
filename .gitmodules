@@ -22,7 +22,3 @@
 	path = plugin4
 	url = https://github.com/WeerawitPM/plugin4.git
 	ignore = dirty
-[submodule "pluginWeerawit"]
-	path = pluginWeerawit
-	url = https://github.com/WeerawitPM/pluginWeerawit.git
-	ignore = dirty
